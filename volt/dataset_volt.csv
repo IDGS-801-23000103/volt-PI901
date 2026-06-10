@@ -1,0 +1,6 @@
+distancia_cm,bateria_porcentaje,duracion_segundos,errores_detectados,estado_robot
+35,90,10,0,Activo
+20,85,8,0,Activo
+15,40,12,1,Prueba
+10,15,5,2,Detenido
+5,5,3,4,Error
